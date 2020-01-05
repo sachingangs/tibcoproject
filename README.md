@@ -1,2 +1,2 @@
 # tibcoproject
-tibco projects
+Sample tibco projects
